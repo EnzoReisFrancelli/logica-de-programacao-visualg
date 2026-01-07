@@ -15,6 +15,7 @@ Os exercícios trabalham conceitos essenciais, como:
 - Estruturas condicionais (`se`, `senao`)
 - Estruturas de repetição (`para`, `enquanto`, `repita`)
 - Vetores
+- Matrizes
 - Algoritmos básicos
 - Resolução de problemas lógicos
 
